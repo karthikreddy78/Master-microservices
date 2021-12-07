@@ -47,7 +47,7 @@ public class CurrencyExchangeController {
         {
             throw new RuntimeException("Unable to find data from"+from+" to "+to);
         }
-        //currencyExchange.setEnvironment(port);
+        currencyExchange.setEnvironment(port);
         return currencyExchange;
     }
 }
