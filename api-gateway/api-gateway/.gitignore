@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+api-gateway/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml
